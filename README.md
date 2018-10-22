@@ -1,6 +1,6 @@
 # Indexing text files
 The application is simple.
-It reads text files in the specified directory and creates a searchable Lucene index
+It reads text files from the specified directory and creates a searchable Lucene index
 
 NOTE: 
 
