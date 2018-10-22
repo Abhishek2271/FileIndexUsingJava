@@ -11,6 +11,11 @@ Output:
   
     - Lucene index created in the destination folder location
 
+What are indexed?
+    
+    
+    - Currently, FileName, FilePath and the entire contents of the files are indexed.
+    - Only text files are filtered and indexed.
 
 NOTE: 
 
