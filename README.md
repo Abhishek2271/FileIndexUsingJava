@@ -4,6 +4,7 @@ It reads text files from the specified directory and creates a searchable Lucene
 
 Input:
 
+
   - Destination folder location where the index is to be created
   - Source folder location (should contain text files to index)
  
